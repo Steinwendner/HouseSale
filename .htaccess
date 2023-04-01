@@ -1,0 +1,4 @@
+<Files "expose.pdf">
+    Order deny,allow
+    Deny from all
+</Files>
