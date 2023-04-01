@@ -23,7 +23,7 @@
             <label for="phone">Telephone Number:</label>
             <input type="tel" id="phone" name="phone" required />
 
-            <button type="submit" class="button-75" role="button">
+            <button type="submit" class="button-download" role="button">
                 <span class="text">Expose herunterladen</span>
             </button>
         </form>
